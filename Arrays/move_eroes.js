@@ -25,4 +25,4 @@ const moveZeroes = function(nums) {
 
 let test = [0, 0, 1];
 moveZeroes(test);
-console.log(test); // What does this print?
+console.log(test);
