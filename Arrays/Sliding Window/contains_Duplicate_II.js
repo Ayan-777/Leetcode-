@@ -10,6 +10,8 @@
 // Example 3:
 // Input: nums = [1,2,3,1,2,3], k = 2
 // Output: false
+// fdf
+
 var containsNearbyDuplicate = function (nums, k) {
   let element = new Set();
 
@@ -25,6 +27,3 @@ var containsNearbyDuplicate = function (nums, k) {
   return false
 };
 
-// test change
-// token test change
-// final test change
