@@ -11,3 +11,8 @@
 // Example 3:
 // Input: s = "abc"
 // Output: false
+
+
+var validPalindrome = function(s) {
+    
+};
